@@ -12,9 +12,9 @@
 	</parent>
 
 	<groupId>javaee6.tutorial-examples.cdi</groupId>
-	<artifactId>simplegreeting</artifactId>
+	<artifactId>encoder</artifactId>
 	<packaging>war</packaging>
 
-	<name>simplegreeting</name>
+    <name>encoder</name>
 
 </project>

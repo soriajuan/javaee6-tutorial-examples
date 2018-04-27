@@ -15,4 +15,6 @@
 	<artifactId>guessnumber</artifactId>
 	<packaging>war</packaging>
 
+    <name>guessnumber</name>
+
 </project>
