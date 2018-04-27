@@ -7,7 +7,7 @@
 
 	<groupId>javaee6</groupId>
 	<artifactId>tutorial-examples</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.2.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Java EE 6 Tutorial Examples</name>
