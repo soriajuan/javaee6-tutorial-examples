@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>javaee6</groupId>
+		<artifactId>tutorial-examples</artifactId>
+		<version>0.1.0-SNAPSHOT</version>
+	</parent>
+
+	<groupId>javaee6.tutorial-examples</groupId>
+	<artifactId>cdi</artifactId>
+	<packaging>pom</packaging>
+
+	<name>cdi</name>
+
+	<modules>
+		<module>guessnumber</module>
+		<module>simplegreeting</module>
+	</modules>
+
+</project>
